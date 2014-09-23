@@ -1,0 +1,9 @@
+<p>Star Rating component:</p>
+
+<div class="box">
+  {{#each}}
+    <div class="rating">
+      {{star-rating item=this ratingProperty="score" maxRating=5 setAction="setRating"}}
+    </div>
+  {{/each}}
+</div>
