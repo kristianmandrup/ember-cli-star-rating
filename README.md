@@ -14,7 +14,8 @@ Star rating component articles:
 - [part 3](http://blinterdi.com/2014/02/18/readers-letters-making-an-ember-dot-js-component-even-better.html)
 
 ## Installation
-npm install ember-cli-star-rating --save-dev
+
+`npm install ember-cli-star-rating --save-dev`
 
 ## Basic Usage
 
