@@ -1,5 +1,7 @@
 #Ember CLI Star Rating
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ember-cli-star-rating.svg)](https://greenkeeper.io/)
+
 ## Description
 This is a star rating component for ember cli projects.
 
